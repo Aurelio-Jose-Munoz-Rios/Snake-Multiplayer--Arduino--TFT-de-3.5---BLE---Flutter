@@ -67,7 +67,4 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 - El código es modular y fácil de adaptar para otros proyectos.
 
 ---
-
-## Créditos
-
-Desarrollado por Equipo de Desarrollo embebido 2025.
+Licencia MIT
