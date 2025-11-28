@@ -45,7 +45,9 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 1. **Descarga y ajusta**:  
    - Todos los archivos `.h` y el `.ino` en la misma carpeta.
    - Configura los pines SPI en `User_Setup.h` de TFT_eSPI según la tabla de arriba.
-
+undefined
+texto archivo escondido
+undefined
 2. **Carga el código** en el ESP32 usando Arduino IDE.
 
 3. **Copia `0001.mp3`** (música de fondo) a la raíz de tu microSD e insértala en el DFPlayer.
