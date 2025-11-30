@@ -33,9 +33,9 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 | TFT_CS       | 15        |
 | TFT_DC       | 2         |
 | TFT_RST      | 4         |
-| DFPlayer RX  | 17        |
-| DFPlayer TX  | 16        |
-| DAC (SFX)    | 25        |
+| MP3 | DFPlayer RX  | 17        |
+| MP3 | DFPlayer TX  | 16        |
+| Effects | DAC (SFX)    | 25        |
 | Alimentación | 5V, GND   |
 
 ---
@@ -44,7 +44,7 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 
 1. **Descarga y ajusta**:  
    - Todos los archivos `.h` y el `.ino` en la misma carpeta.
-   - Configura los pines SPI en `User_Setup.h` de TFT_eSPI según la tabla de arriba.
+   - Reemplaza completamente el archivo `User_Setup.h` de TFT_eSPI.
 ```
 #define USER_SETUP_INFO "User_Setup"
 
