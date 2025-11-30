@@ -33,9 +33,9 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 | TFT_CS       | 15        |
 | TFT_DC       | 2         |
 | TFT_RST      | 4         |
-| MP3 | DFPlayer RX  | 17        |
-| MP3 | DFPlayer TX  | 16        |
-| Effects | DAC (SFX)    | 25        |
+| DFPlayer RX  | 17        |
+| DFPlayer TX  | 16        |
+| DAC (SFX)    | 25        |
 | Alimentación | 5V, GND   |
 
 ---
