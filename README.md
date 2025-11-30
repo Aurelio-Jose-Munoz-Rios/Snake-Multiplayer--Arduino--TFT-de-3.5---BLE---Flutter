@@ -28,15 +28,17 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 
 | Módulo       | ESP32 Pin |
 |--------------|-----------|
+| TFT_MISO     | 19        |
 | TFT_MOSI     | 23        |
 | TFT_SCK      | 18        |
 | TFT_CS       | 15        |
 | TFT_DC       | 2         |
 | TFT_RST      | 4         |
+| LED          | 3.3V      |
 | DFPlayer RX  | 17        |
 | DFPlayer TX  | 16        |
 | DAC (SFX)    | 25        |
-| Alimentación | 5V, GND   |
+| Alimentación | 3.3V, GND |
 
 ---
 
