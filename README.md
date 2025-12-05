@@ -46,7 +46,7 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 
 1. **Descarga y ajusta**:  
    - Todos los archivos `.h` y el `.ino` en la misma carpeta.
-   - Reemplaza completamente el archivo `User_Setup.h` de TFT_eSPI.
+   - Reemplaza completamente el archivo `User_Setup.h` ubicado en la librería de TFT_eSPI.
 ```
 #define USER_SETUP_INFO "User_Setup"
 
