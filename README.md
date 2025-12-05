@@ -97,6 +97,6 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 - Efectos de sonido: generados por DAC, sin interferir con la música.
 - El código es modular y fácil de adaptar para otros proyectos.
 - [![Mira el video](<img width="344" height="601" alt="IMG" src="https://github.com/user-attachments/assets/833237ec-fc28-4728-897f-eed43726412f" />
-)(https://www.youtube.com/shorts/wCvCZMIIGcU)]
+)](https://www.youtube.com/shorts/wCvCZMIIGcU)
 ---
 Licencia MIT
