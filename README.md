@@ -96,7 +96,7 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 - Música de fondo: solo archivo `0001.mp3` en la SD.
 - Efectos de sonido: generados por DAC, sin interferir con la música.
 - El código es modular y fácil de adaptar para otros proyectos.
-- [![Mira el video](<img width="344" height="601" alt="IMG" src="https://github.com/user-attachments/assets/833237ec-fc28-4728-897f-eed43726412f" />
+- [![Mira el video en youtube](<img width="344" height="601" alt="IMG" src="https://github.com/user-attachments/assets/833237ec-fc28-4728-897f-eed43726412f" />
 )](https://www.youtube.com/shorts/wCvCZMIIGcU)
 ---
 Licencia MIT
