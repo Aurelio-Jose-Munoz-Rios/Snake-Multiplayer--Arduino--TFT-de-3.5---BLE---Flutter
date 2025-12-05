@@ -40,6 +40,8 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 | DAC (SFX)    | 25        |
 | Alimentación | 3.3V, GND |
 
+<img width="796" height="585" alt="esquematico" src="https://github.com/user-attachments/assets/6e2a8621-c4f2-4617-bf86-6170397fe378" />
+
 ---
 
 ## 🚀 Instrucciones rápidas
@@ -94,6 +96,7 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 - Música de fondo: solo archivo `0001.mp3` en la SD.
 - Efectos de sonido: generados por DAC, sin interferir con la música.
 - El código es modular y fácil de adaptar para otros proyectos.
-
+- [![Mira el video](<img width="344" height="601" alt="IMG" src="https://github.com/user-attachments/assets/833237ec-fc28-4728-897f-eed43726412f" />
+)(https://www.youtube.com/shorts/wCvCZMIIGcU)]
 ---
 Licencia MIT
