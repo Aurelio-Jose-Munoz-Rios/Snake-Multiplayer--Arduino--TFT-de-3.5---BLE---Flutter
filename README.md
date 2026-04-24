@@ -4,7 +4,7 @@ Juego Snake para dos jugadores en ESP32, controlado por Bluetooth desde smartpho
 
 ---
 
-## 📦 Librerías necesarias
+## Librerías necesarias
 
 Instala desde el Gestor de Librerías de Arduino IDE:
 - [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) (by Bodmer) (modifica el archivo User_Setup.h)
@@ -13,7 +13,7 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 
 ---
 
-## 🛠️ Hardware requerido
+## Hardware requerido
 
 - ESP32 DevKit V1
 - Módulo TFT LCD 3.5” SPI (ILI9488/ILI9486)
@@ -44,7 +44,7 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 
 ---
 
-## 🚀 Instrucciones rápidas
+## Instrucciones rápidas
 
 1. **Descarga y ajusta**:  
    - Todos los archivos `.h` y el `.ino` en la misma carpeta.
@@ -91,7 +91,7 @@ Instala desde el Gestor de Librerías de Arduino IDE:
 
 ---
 
-## 📝 Notas
+## Notas
 
 - Música de fondo: solo archivo `0001.mp3` en la SD.
 - Efectos de sonido: generados por DAC, sin interferir con la música.
